@@ -1,6 +1,11 @@
 # requests for qpython
 
 The requests library and its dependencies. <br>
+QPython3 compliant with python 3.2, but python 3.2 has no support for str literals with unicode prefix. So, this library cannot install or run on qpython3.<br>
+I removed unicode prefix and fix some codes to be able to use on qpython3. All dependencies and source codes are here.
+
+------
+# Usage
 Please download [qpython.zip](https://github.com/frodo821/requests-for-qpython/blob/master/qpython.zip) and extract your site-packages directory.<br>
 You can use under LGPL 3.0.
 
