@@ -6,7 +6,7 @@ I removed unicode prefix and fix some codes to be able to use on qpython3. All d
 
 ------
 # Usage
-Please download [qpython.zip](https://github.com/frodo821/requests-for-qpython/blob/master/qpython.zip) and extract your site-packages directory.<br>
+Please download [qpython.zip](https://github.com/frodo821/requests-for-qpython/blob/master/qpython.zip) and extract your site-packages directory (e.g. /sdcard/qpython/lib/python3.2/site-packages/).<br>
 You can use under LGPL 3.0.
 
 -------
