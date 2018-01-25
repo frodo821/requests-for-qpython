@@ -8,8 +8,8 @@ You can use under LGPL 3.0.
 # Acknowledgements
 
 The authors are greatful to P.S.<br>
-+ (Certifi: Python SSL Certificates)[https://github.com/certifi/python-certifi]
-+ (Chardet: Python Universal Character Encoding Detector)[https://github.com/chardet/chardet]
-+ (IDNA for Python)[https://github.com/kjd/idna]
-+ (urllib3)[https://github.com/shazow/urllib3]
-and the original (requests library)[https://github.com/requests/requests]!
++ [https://github.com/certifi/python-certifi](Certifi: Python SSL Certificates)
++ [https://github.com/chardet/chardet](Chardet: Python Universal Character Encoding Detector)
++ [https://github.com/kjd/idna](IDNA for Python)
++ [https://github.com/shazow/urllib3](urllib3)
+and the original [https://github.com/requests/requests](requests library)!
